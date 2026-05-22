@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "shainkipe@gmail.com",
+    "password": "prince12ke",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -13,7 +13,7 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "YOUR BABY KIPE",
+  "nickNameBot": "༒✞𖣘K𝐢pe𖣘✞༒",
   "prefix": "-",
   "adminOnly": {
     "enable": false,
@@ -22,11 +22,11 @@
   "adminBot": [
     "61587759572328",
     "9371156392907659",
-    "61579279925067"
+    "61589868123682"
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["61587759572328",
+    "whiteListIds": ["",
 "61584035788710",
       ""
     ],
