@@ -13,7 +13,7 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "༒✞𖣘K𝐢pe𖣘✞༒",
+  "nickNameBot": "♡゙𝆠꯭፝֟ ≛⃝𝐌༎ncs|kipe❯🌷🩷ᥫ᭡⎯꯭꯭̽⃞😽ꤪꤨꤪ✞",
   "prefix": "-",
   "adminOnly": {
     "enable": false,
@@ -28,7 +28,7 @@
     "enable": false,
     "whiteListIds": ["",
 "61584035788710",
-      ""
+      "61590026428291"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
